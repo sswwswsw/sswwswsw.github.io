@@ -1,0 +1,115 @@
+[
+    {
+        "0": {
+            "Flag": "data:image/png;base64,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",
+            "Name": "Bolivia",
+            "listURL": "https://iptv-org.github.io/iptv/countries/bo.m3u"
+        },
+        "1": {
+            "Flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAAB9CAMAAADQgdxqAAAAyVBMVEV0rN////9vqt6lx+n2tA77uQ759vT6+fr9/PzdxrnWuKTXtZnp2c3HmXP28/LMporKoH7LoHm7hVzcmAjVuqvGiErct5Lt6OvRm1rYlAzxrg3rqA3axrzBlHa8imbkz8Do3dr38Om+fDvTqoTSjTLTpHLblBzixrLMnXHGewC+fC7FnYXSnGurYgDPl13i0szfrGzIo5G0dU69e03RkEXZmUSrYxnjxKTGjlzZq3/fmy3XnVTIgiWycDC0bAC7fETgsXrLhgiXSQtX144LAAADuElEQVR4nO3abXOqRhQH8JwWsoKAGllW1AgKCouKJkGigWi93/9DdWHmzrTvbmdy2pI5vzcy8cXJf9jn9eGBEEIIIYQQQgghhBBCCCGEEEIIIb/st2/i4fdv4gG+CQryD/R6/0IR9CBzBwwD2OERuQ5uELfH7CWYJrgv0HNRSyEGUQ3q2YJLAP0+pAlYz3ilADXIIgTLhiBuguTvYFsQLPB6C1YQ9R8bZ+ZwR5zCvgenRD0uV8v2CxRYQYwB9C4cvAhOgeeFH2HkwSACGBhIBdGa1nAErIpELArjEvUr9RBKC0ZDrHo4QcIlQLqGw0bwpHqP0txMuBOPYJ0COA5KSaQgb4ED6wnjnrVK12deGJmRpb3JGlh0wxmGkZpWwGOTTSZzaWSLOsvkNtsVYjJhzjFnOBUxgjweVOsJNiNnx9P6ba9c95/SzHei709U20KZ5VGCvDwNAxDx7pBn+6s/1fWpfy35bSCPFguGTy9dCaKiGLwww3N9LqWma4quyZLXiWMWhYuz6sIIcmBqZDKO0j7vpf4ziC6vg5E8JgDCshCKYgTZ3vipSsRyVJczTRvPdH021vRZWdvufG7+ES+2CCMwStNiIjRPUlaZeiH3zeY+9jf3qS4/67iqqmF35pEeY8wR7vNtf9c1/4f0x/KHr+l+abuhEOpLjPUWQpD56+sbL04FX5VjXZv6M8Wfavq4XLV/fnt9nX99Vaw3IkQ4t0tf9XTVQVQ3UZ+bPX92hdOdN6KIqKomcb2SzZA1m41nzcAlV5W8n8xQoMztCEGcF7u4JPO5a7ejlja739uPsh6FwqxO/Lb9+qIob8QKhFqiHOVou7+qVzL1VQ9p5pEn+3oM1OqXHRCKIs3sLq9MkdT8rzP7rT6HamY3ujOzq7XWIGDBRPY5L3+utfZZfljHArq01mpXv/m9L3a5KT/3rVud8p1z+Qi6tPpVevnRUfsRUdjZVpZZvcgMOVf7EbPgGAstwAri3i5M7RB7qdoYGsXtvE4Ly+OsWoMTvIYoJXGCNPtytWcfxQ5PzPx8eedqz745tHv2ZZeCQHuKYt1DEYuqH3lJoR6iyuncKUp7rgXRALwo/Ag9LzhB5EF16XXvXEstp5arpcOdJAavH56EemRno3snjWpTsgias9/3vDn7jYPm7DdcoFVDvlZ4tiBJmyBG1J7GI974YN+PwMBt7keWNuvu/Ujrcc6aGysHYSv1d3SH+H/zfYL8179Y+Crf57cohBBCCCGEEEIIIYQQQgghhBBCCPllfwIbPIP2p6MPgwAAAABJRU5ErkJggg==",
+            "Name": "Argentina",
+            "listURL": "https://iptv-org.github.io/iptv/countries/ar.m3u"
+        },
+        "2": {
+            "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/1200px-Flag_of_Colombia.svg.png",
+            "Name": "Colombia",
+            "listURL": "https://iptv-org.github.io/iptv/countries/co.m3u"
+        },
+        "3": {
+            "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/1235px-Flag_of_the_United_States.svg.png",
+            "Name": "Usa",
+            "listURL": "https://iptv-org.github.io/iptv/countries/us.m3u"
+        },
+        "4": {
+            "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/300px-Flag_of_Brazil.svg.png",
+            "Name": "Brasil",
+            "listURL": "https://iptv-org.github.io/iptv/countries/br.m3u"
+        },
+        "5": {
+            "Flag": "https://cdn.britannica.com/73/2573-004-29818847/Flag-Mexico.jpg",
+            "Name": "Mexico",
+            "listURL": "https://iptv-org.github.io/iptv/countries/mx.m3u"
+        },
+        "6": {
+            "Flag": "https://img.freepik.com/vector-premium/bandera-espana-bandera-espana-ilustracion-vectorial_685751-103.jpg",
+            "Name": "Spain",
+            "listURL": "https://iptv-org.github.io/iptv/countries/es.m3u"
+        },
+        "7": {
+            "Flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAB4CAMAAABsOSjPAAAAhFBMVEXXKx////8AOabbTUbXJhn66+sANaXt7/Y4N53JLDQ2UK3YKxwAK6K5wd4AL6MAJaEAAJv5+vySnc0ACJwAFJ5wfr8+WbGtsdcAH6AgPafZ3u3m6PJEVK9YZ7abptFPY7UtRKrO1OlPXbLByOKCjMaRl8u1udtnd702SqxibrlSTKDq3OOgtUcZAAABnklEQVR4nO3XW1OCQBiAYaBaynRXVBKRCIQ81P//fyFheViaRi/4mHnfO+W7eGYHdsHxrk4NfLebHNCgQYMGDRo0aNC3oLXqH1qHL3+ohaLNfB71Da0W8XLYO3TiBq+6Z2iTum7avtQy0eOl68amX2j9FlQDWev+IRJtJvuBSetSi0SrfD/Qfn8IQqthk8nqAX9lDv9oqegsLUZN+fdEfvhdpAuhaJXlbaNFooSiPRWVgW0weJ+e7SOC0NWusYov55bJxSkjCu1psz4fm+vL41wWulrszckt4ofGcsRIQ3vDbf47E2fWvVoc2pseofOpdUQc+hQ06wd6WB4Pldb3U3noUX21eRwL60eXOLSuL8aDQb1l+4nt/VQaWm/219ZKa11v2aHto0saOiqq5d3Uz1+0q2iF7VEUhlbZ0o23zdNnkuoWGctH69KdzH5uYzVOrfuHNHQanuwXZreWj/bOP1K07RyXhv5XoEGDBg0aNGjQoEGDfry+j8+HbnKebuiuo5znG7rvKIeIiIiIiIiIiIiIiIiIiIiIiIiIqHd9AQYQVTA5XFI6AAAAAElFTkSuQmCC",
+            "Name": "Chile",
+            "listURL": "https://iptv-org.github.io/iptv/countries/cl.m3u"
+        },
+        "8": {
+            "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/270px-Flag_of_Uruguay.svg.png",
+            "Name": "Uruguay",
+            "listURL": "https://iptv-org.github.io/iptv/countries/uy.m3u"
+        },
+        "9": {
+            "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Flag_of_Ecuador_%281900–2009%29.svg/300px-Flag_of_Ecuador_%281900–2009%29.svg.png",
+            "Name": "Ecuador",
+            "listURL": "https://iptv-org.github.io/iptv/countries/ec.m3u"
+        },
+        "10": {
+            "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/200px-Flag_of_Panama.svg.png",
+            "Name": "Panama",
+            "listURL": "https://iptv-org.github.io/iptv/countries/pa.m3u"
+        },
+        "11": {
+            "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/1280px-Flag_of_Honduras.svg.png",
+            "Name": "Honduras",
+            "listURL": "https://iptv-org.github.io/iptv/countries/hn.m3u"
+        },
+        "12": {
+            "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/200px-Flag_of_Peru.svg.png",
+            "Name": "Peru",
+            "listURL": "https://iptv-org.github.io/iptv/countries/pe.m3u"
+        },
+        "13": {
+            "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/800px-Flag_of_Cuba.svg.png",
+            "Name": "Cuba",
+            "listURL": "https://iptv-org.github.io/iptv/countries/cu.m3u"
+        },
+        "14": {
+            "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/200px-Flag_of_Nicaragua.svg.png",
+            "Name": "Nicaragua ",
+            "listURL": "https://iptv-org.github.io/iptv/countries/ni.m3u"
+        },
+        "15": {
+            "Flag": "https://upload.wikimedia.org/wikipedia/commons/4/48/Venezuela_flag.png",
+            "Name": "Venezuela ",
+            "listURL": "https://iptv-org.github.io/iptv/countries/ve.m3u"
+        },
+        "16": {
+            "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/2560px-Flag_of_Costa_Rica.svg.png",
+            "Name": "Costa Rica ",
+            "listURL": "https://iptv-org.github.io/iptv/countries/cr.m3u"
+        },
+        "17": {
+            "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_France_%281794–1815%2C_1830–1974%29.svg/200px-Flag_of_France_%281794–1815%2C_1830–1974%29.svg.png",
+            "Name": "France",
+            "listURL": "https://iptv-org.github.io/iptv/countries/fr.m3u"
+        },
+        "18": {
+            "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/2560px-Flag_of_Russia.svg.png",
+            "Name": "Russia",
+            "listURL": "https://iptv-org.github.io/iptv/countries/ru.m3u"
+        },
+        "19": {
+            "Flag": "data:image/png;base64,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",
+            "Name": "Puerto Rico",
+            "listURL": "https://iptv-org.github.io/iptv/countries/pr.m3u"
+        },
+        "20": {
+            "Flag": "https://logowik.com/content/uploads/images/sports8897.jpg",
+            "Name": "Sports",
+            "listURL": "https://iptv-org.github.io/iptv/categories/sports.m3u"
+        },
+        "21": {
+            "Flag": "https://img.freepik.com/premium-vector/mr-company-name-initial-letters-icon-mr-lettering_302321-15.jpg",
+            "Name": "xxx",
+            "listURL": "https://raw.githubusercontent.com/THEMMMINAT/xxx-IPTV/main/XXX.m3u"
+        },
+        "__id__": "kiEHObL8LuNMwvza0XE6"
+    }
+]
