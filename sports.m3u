@@ -3,3 +3,25 @@
 https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8
 #EXTINF:-1 tvg-id="WORLD POKER TOUR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2900001P9_20230926T032409SQUARE.png_20230926032410.png" group-title="WORLD POKER TOUR",WORLD POKER TOUR
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00218-wptenterprisesi-wptespanol-samsungspain/playlist.m3u8
+#EXTINF:-1 tvg-id="CHUKKER" tvg-logo="https://i.ibb.co/y0gYNqX/chukker.png" group-title="CHUKKER",CHUKKER
+https://s3host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config4/thechukkerchannel/localnow/master.m3u8?ads.cdnhost=s3host5.localnow.api.cms.amdvids.com&ads.playbackid=DDB1BB85-50DE-4E4E-992E-D3D8CF4E9C6D&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1714063241&ads.n3=qp_content_id&ads.v3=DDB1BB85-50DE-4E4E-992E-D3D8CF4E9C6D
+#EXTINF:-1 tvg-id="AZTECA DEPORTES NETWORK" tvg-logo="https://i.ibb.co/pLzvPJ3/aztecadeportes.png" group-title="AZTECA DEPORTES NETWORK",AZTECA DEPORTES NETWORK
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6582f002a620e3000813b329/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-id="AZTECA DEPORTES PREMIUM" tvg-logo="https://i.ibb.co/pLzvPJ3/aztecadeportes.png" group-title="AZTECA DEPORTES PREMIUM",AZTECA DEPORTES PREMIUM
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65cf60d166eec80008724e6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-id="ZONA TUDN US" tvg-logo="https://i.ibb.co/WDt6Sc6/zona-tudn.png" group-title="ZONA TUDN US",ZONA TUDN US
+https://linear-357.frequency.stream/dist/vizio/357/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="FIFA+" tvg-logo="https://i.ibb.co/DrKBzfw/fifa-plus.png" group-title="FIFA+",FIFA+
+https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="BEIN SPORTS XTRA Ñ" tvg-logo="https://image.xumo.com/v1/channels/channel/99991785/600x600.webp?type=color_onBlack" group-title="BEIN SPORTS XTRA Ñ",BEIN SPORTS XTRA Ñ
+https://dbrb49pjoymg4.cloudfront.net/10001/99991785/hls/playlist.m3u8?ads.xumo_channelId=99991785
+#EXTINF:-1 tvg-id="BEIN SPORTS Ñ" tvg-logo="https://image.xumo.com/v1/channels/channel/99991387/600x600.webp?type=color_onBlack" group-title="BEIN SPORTS Ñ",BEIN SPORTS Ñ
+https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1YTQ0YjY2YTVkMTY5LTJmNzktZDNmNC02MjE5LTM4OWZmOGIw/master.m3u8
+#EXTINF:-1 tvg-id="GOLPERÚ" tvg-logo="https://i.postimg.cc/YqmmbzTk/golperu.png" group-title="GOLPERÚ",GOLPERÚ
+https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1ZWE4M2VlNjcxMzk3LTZiM2ItODExNC04ZWRjLTg3Y2MwMzFl/master.m3u8
+#EXTINF:-1 tvg-id="GOLTV" tvg-logo="https://i.ibb.co/LN7xzW8/goltv.png" group-title="GOLTV",GOLTV
+https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1MWM2MThkNjM2Njk0LTllMGEtZjMxNC0wYzhhLTIzOTM1NjE2/master.m3u8
+#EXTINF:-1 tvg-id="SPORTMAX CHILE" tvg-logo="https://i.postimg.cc/Pf4wKrDx/sportmax.png" group-title="SPORTMAX CHILE",SPORTMAX CHILE
+https://cablemor.andremor.dev/live/sportmax-cl/index.m3u8
+#EXTINF:-1 tvg-id="SPORTMAX SEÑAL 2" tvg-logo="https://i.postimg.cc/Pf4wKrDx/sportmax.png" group-title="SPORTMAX SEÑAL 2",SPORTMAX SEÑAL 2
+https://streaming-cl.sh1ny.space/memfs/6f2ee266-1c1e-48ad-a5aa-e977dc33740e.m3u8
