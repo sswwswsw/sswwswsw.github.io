@@ -25,9 +25,131 @@ https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1MWM2MThk
 https://cablemor.andremor.dev/live/sportmax-cl/index.m3u8
 #EXTINF:-1 tvg-id="SPORTMAX SEÑAL 2" tvg-logo="https://i.postimg.cc/Pf4wKrDx/sportmax.png" group-title="SPORTMAX SEÑAL 2",SPORTMAX SEÑAL 2
 https://streaming-cl.sh1ny.space/memfs/6f2ee266-1c1e-48ad-a5aa-e977dc33740e.m3u8
-#EXTINF:-1 tvg-id="ESPN PREMIUM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7O-M-yq4RNxUURjSVPCc8E7erFNCYxBAYuDHJDjoH9qGTUVdpD3NTjKUlFadThM4Ril0&usqp=CAU" group-title="ESPN PREMIUM",ESPN PREMIUM
+#EXTINF:-1 tvg-id="ESPN PREMIUM CHILE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7O-M-yq4RNxUURjSVPCc8E7erFNCYxBAYuDHJDjoH9qGTUVdpD3NTjKUlFadThM4Ril0&usqp=CAU" group-title="ESPN PREMIUM CHILE",ESPN PREMIUM CHILE
 http://45.189.108.146:1935/xmp_trans/espn_premium.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TIGO Sports Latino" tvg-logo="https://i0.wp.com/logoroga.com/wp-content/uploads/2015/10/PREVtigosport.png?fit=800%2C600&ssl=1" group-title="TIGO Sports Latino",TIGO Sports Latino
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7357
 #EXTINF:-1 tvg-id="E-Sports" tvg-logo="https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png" group-title="E-Sports",E-Sports
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-id="DAZN RINGSIDE" tvg-logo="https://i.ibb.co/DtKnxcK/dazn-ringside.png" group-title="DAZN RINGSIDE",DAZN RINGSIDE
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/649b6898f2ec0000081a9460/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1 tvg-id="DAZN DARTS" tvg-logo="https://i.ibb.co/djqRSWR/dazn-darts.png" group-title="DAZN DARTS",DAZN DARTS
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64b67f0424ade50008a3be17/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1 tvg-id="DAZN HANDBALL" tvg-logo="https://i.ibb.co/71SnB1f/dazn-handball.png" group-title="DAZN HANDBALL",DAZN HANDBALL
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6683f7fe36a2f9000804940c/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1 tvg-id="DAZN HELDINNEN" tvg-logo="https://i.ibb.co/vvRcFzj/dazn-heldinnen.png" group-title="DAZN HELDINNEN",DAZN HELDINNEN
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64afe50c5dc16600087f3227/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1 tvg-id="MLB" tvg-logo="https://i.ibb.co/QCPQkjk/mlb.png" group-title="MLB",MLB
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1 tvg-id="NHL" tvg-logo="https://i.postimg.cc/FHbCHkH8/nhl.png" group-title="NHL",NHL
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,NHL.m3u8
+#EXTINF:-1 tvg-id="CBS SPORTS HQ" tvg-logo="https://i.ibb.co/gMGQfQh/cbs-sports.png" group-title="CBS SPORTS HQ",CBS SPORTS HQ
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="FOX SPORTS" tvg-logo="https://i.ibb.co/80JcNQ6/fox-sports.png" group-title="FOX SPORTS",FOX SPORTS
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1 tvg-id="FS1" tvg-logo="https://i.ibb.co/80JcNQ6/fS1.png" group-title="FS1",FS1
+http://212.102.60.10/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-id="FS2" tvg-logo="https://i.ibb.co/80JcNQ6/fS2.png" group-title="FS2",FS2
+http://212.102.60.231/FOX_SPORTS_2/index.m3u8
+#EXTINF:-1 tvg-id="TENNIS CHANNEL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2600001ME_20230809T053838SQUARE.png_20230809053839.png" group-title="TENNIS CHANNEL",TENNIS CHANNEL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelspain-samsungspain/playlist.m3u8
+#EXTINF:-1 tvg-id="T2 LIVE TENNIS" tvg-logo="https://i.ibb.co/m8rwcJy/T2-live-tennis.png" group-title="TENNIS",T2 LIVE TENNIS
+https://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/amgtennisus/playlist.m3u8
+#EXTINF:-1 tvg-id="COURT SPORTS NETWORK" tvg-logo="https://i.ibb.co/yqPXJjW/court-sports.png" group-title="SPORTS",COURT SPORTS NETWORK
+https://linear-627.frequency.stream/dist/distrotv/627/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="GOLFPASS" tvg-logo="https://i.ibb.co/SxhPjMG/golfpass.png" group-title="SPORTS",GOLFPASS
+https://d1fqmru92jnl1h.cloudfront.net/live/master.m3u8
+#EXTINF:-1 tvg-id="PGA TOUR" tvg-logo="https://image.xumo.com/v1/channels/channel/99991281/600x337.webp?type=color_onBlack" group-title="SPORTS",PGA TOUR
+https://dbrb49pjoymg4.cloudfront.net/10001/99991281/hls/playlist.m3u8?ads.xumo_channelId=99991281
+#EXTINF:-1 tvg-id="GOLF NATION" tvg-logo="https://i.ibb.co/vYYfSNg/golf-nation.png" group-title="SPORTS",GOLF NATION
+https://linear-612.frequency.stream/dist/vizio/612/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="TOP BARÇA" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ff403089-1c81-41d3-bb18-b817b1f01721.jpeg" group-title="SPORTS",TOP BARÇA
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SPORTDIGITAL FREE" tvg-logo="https://i.ibb.co/XX6rKD0/sdf.png" group-title="SPORTS",SPORTDIGITAL FREE
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/3af04d27-818e-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="SCOOORE" tvg-logo="https://i.ibb.co/pfHxtNN/scooore.png" group-title="SPORTS",SCOOORE
+https://d2wx5pojhvi302.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yatnu9bygek82/index.m3u8
+#EXTINF:-1 tvg-id="BELARUS 5 INTERNET" tvg-logo="https://i.ibb.co/sgbg5Jh/Belarus-5-Internet.png" group-title="INTERNATIONAL",BELARUS 5 INTERNET
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ZONA TUDN US (GEO)" tvg-logo="https://i.ibb.co/WDt6Sc6/zona-tudn.png" group-title="SPORTS",ZONA TUDN US (GEO)
+https://d3uyzgka2wjb00.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-210b4ta87o6ku/server/distrib/jNRQRKsWY2kxcEBj/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqmz_IT731OUAvvJWUO7I8b4d6FbvMORdXi-V3pCAiBr0JARhscS-3WkU6FOUBwPwJnqMv4GCOc2gutqomsrHRTSUl3Uveb3OckqNB_uKGZyqp1MN-AQSrGdqPGHIh4ZkM1qcJ0EK7zvf7UnRlwZAqGWGOqra8-Rqhg0wiraCQIS5xbUshW63EISyP5F69-b62g/manifest.m3u8
+#EXTINF:-1 tvg-id="ACC DIGITAL NETWORK" tvg-logo="https://image.xumo.com/v1/channels/channel/99991315/600x337.webp?type=color_onBlack" group-title="SPORTS",ACC DIGITAL NETWORK
+https://dbrb49pjoymg4.cloudfront.net/10001/99991315/hls/playlist.m3u8?ads.xumo_channelId=99991315
+#EXTINF:-1 tvg-id="PAC 12 INSIDER" tvg-logo="https://image.xumo.com/v1/channels/channel/99991143/600x337.webp?type=color_onBlack" group-title="SPORTS",PAC 12 INSIDER
+https://pac12-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BEK SPORTS" tvg-logo="https://i.ibb.co/VwMZgMZ/bek-sports.png" group-title="SPORTS",BEK SPORTS
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil%3aBEKPRIMEW.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BOXING TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99951154/600x337.webp?type=color_onBlack" group-title="SPORTS",BOXING TV
+https://d2irko5f9gt1c5.cloudfront.net/10008/99951154/hls/BOXINGTV_SCTE.m3u8?ads.xumo_channelId=99951154
+#EXTINF:-1 tvg-id="UFC" tvg-logo="https://image.xumo.com/v1/channels/channel/99951134/600x337.webp?type=color_onBlack" group-title="SPORTS",UFC
+https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134
+#EXTINF:-1 tvg-id="DRAFTKINGS NETWORK" tvg-logo="https://image.xumo.com/v1/channels/channel/99951265/600x337.webp?type=color_onBlack" group-title="SPORTS",DRAFTKINGS NETWORK
+https://d2irko5f9gt1c5.cloudfront.net/10008/99951265/hls/playlist.m3u8?ads.xumo_channelId=99951265
+#EXTINF:-1 tvg-id="STRONGMAN CHAMPIONS LEAGUE" tvg-logo="https://image.xumo.com/v1/channels/channel/99951180/600x337.webp?type=color_onBlack" group-title="SPORTS",STRONGMAN CHAMPIONS LEAGUE
+https://d2irko5f9gt1c5.cloudfront.net/10008/99951180/hls/playlist.m3u8?ads.xumo_channelId=99951180
+#EXTINF:-1 tvg-id="HARD KNOCKS" tvg-logo="https://i.ibb.co/MGq0gyX/hard-knocks.webp" group-title="SPORTS",HARD KNOCKS
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
+#EXTINF:-1 tvg-id="MMA TV" tvg-logo="https://i.ibb.co/ZhxL3T3/mma-tv.png" group-title="SPORTS",MMA TV
+https://daiconnect.com/live/hls/tvup/tvfy-mma/.m3u8
+#EXTINF:-1 tvg-id="FIGHT NETWORK" tvg-logo="https://image.xumo.com/v1/channels/channel/99951132/600x337.webp?type=color_onBlack" group-title="SPORTS",FIGHT NETWORK
+https://dbrb49pjoymg4.cloudfront.net/10001/99951132/hls/master.m3u8?ads.xumo_channelId=99951132
+#EXTINF:-1 tvg-id="FIGHT NETWORK 2" tvg-logo="https://image.xumo.com/v1/channels/channel/99951132/600x337.webp?type=color_onBlack" group-title="SPORTS",FIGHT NETWORK 2
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fight-network/main.m3u8
+#EXTINF:-1 tvg-id="PROFESSIONAL FIGHTERS LEAGUE" tvg-logo="https://image.xumo.com/v1/channels/channel/99951203/600x337.webp?type=color_onBlack" group-title="SPORTS",PROFESSIONAL FIGHTERS LEAGUE
+https://d2irko5f9gt1c5.cloudfront.net/10008/99951203/hls/playlist.m3u8?ads.xumo_channelId=99951203
+#EXTINF:-1 tvg-id="SWERVE COMBAT" tvg-logo="https://i.ibb.co/2gDHQxW/swerve-combat.png" group-title="SPORTS",SWERVE COMBAT
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/swerve-combat/playlist.m3u8
+#EXTINF:-1 tvg-id="MMA JUNKIE" tvg-logo="https://i.ibb.co/D4T7phH/mma-junkie.jpg" group-title="SPORTS",MMA JUNKIE
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mma-junkie/master.m3u8
+#EXTINF:-1 tvg-id="UFA" tvg-logo="https://i.ibb.co/CmdBHzB/ufa.png" group-title="SPORTS",UFA
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
+#EXTINF:-1 tvg-id="FIGHTING SPIRIT TV" tvg-logo="https://i.ibb.co/sFvRTLs/fs.png" group-title="SPORTS",FIGHTING SPIRIT TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fighting-spirit-tv/master.m3u8
+#EXTINF:-1 tvg-id="CHANNEL FIGHT" tvg-logo="https://i.ibb.co/sVwQKzC/channel-fight.jpg" group-title="SPORTS",CHANNEL FIGHT
+https://d15wqvt0xm15k4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/ChannelFight-DistroTV/266.m3u8
+#EXTINF:-1 tvg-id="EXTREME SPORTS PLUS" tvg-logo="https://i.ibb.co/k1KsQ05/extreme-plus.webp" group-title="SPORTS",EXTREME SPORTS PLUS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6659
+#EXTINF:-1 tvg-id="MOTORTREND FAST TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99951196/600x337.webp?type=color_onBlack" group-title="SPORTS",MOTORTREND FAST TV
+https://dtqutq7lmcchv.cloudfront.net/10001/99951196/hls/playlist.m3u8?ads.xumo_channelId=99951196
+#EXTINF:-1 tvg-id="MOTORVISION" tvg-logo="https://image.xumo.com/v1/channels/channel/99991325/600x337.webp?type=color_onBlack" group-title="SPORTS",MOTORVISION
+https://dbrb49pjoymg4.cloudfront.net/10001/99991325/hls/mv.m3u8?ads.xumo_channelId=99991325
+#EXTINF:-1 tvg-id="PSW" tvg-logo="https://i.ibb.co/p2fFqs7/powersportsworld.png" group-title="SPORTS",PSW (PowerSportsWorld)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motoamerica-tv/MOTOAMERICA_SCTE.m3u8
+#EXTINF:-1 tvg-id="MOTORRACING" tvg-logo="https://i.ibb.co/wRTTWdF/motorracing.png" group-title="SPORTS",MOTORRACING
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/master.m3u8
+#EXTINF:-1 tvg-id="NITRO CIRCUS TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99991294/600x337.webp?type=color_onBlack" group-title="SPORTS",NITRO CIRCUS TV
+https://s8host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config10/acTVe-bike-ono/playlist.m3u8?ads.cdnhost=s8host4.localnow.api.cms.amdvids.com&ads.playbackid=6528F0C2-5E6A-4C49-B2C1-CBD3503D045A&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1714063241&ads.n3=qp_content_id&ads.v3=6528F0C2-5E6A-4C49-B2C1-CBD3503D045A
+#EXTINF:-1 tvg-id="LACROSSE TV" tvg-logo="https://i.ibb.co/GQV5W9w/lax-tv.png" group-title="SPORTS",LACROSSE TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/lax/LSN_SCTE.m3u8
+#EXTINF:-1 tvg-id="PLL NETWORK" tvg-logo="https://i.ibb.co/Zfp0Qyq/premierlacrosseleague.png" group-title="SPORTS",PLL NETWORK
+https://1377982510.rsc.cdn77.org/HLS/PLL_SCTE.m3u8
+#EXTINF:-1 tvg-id="BILLIARD TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99991627/600x337.webp?type=color_onBlack" group-title="SPORTS",BILLIARD TV
+https://dtqutq7lmcchv.cloudfront.net/10001/99991627/hls/BILLIARDTV_SCTE.m3u8?ads.xumo_channelId=99991627
+#EXTINF:-1 tvg-id="SURFER" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/FF2B48B0-01BD-40E4-A900-5D02739CA9FD/3-1x1.png" group-title="SPORTS",SURFER
+https://s8host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config10/acTVe-surfer-ono/playlist.m3u8?ads.cdnhost=s8host3.localnow.api.cms.amdvids.com&ads.playbackid=FF2B48B0-01BD-40E4-A900-5D02739CA9FD&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1714063241&ads.n3=qp_content_id&ads.v3=FF2B48B0-01BD-40E4-A900-5D02739CA9FD
+#EXTINF:-1 tvg-id="ORIGIN SPORTS" tvg-logo="https://image.xumo.com/v1/channels/channel/99991786/600x337.webp?type=color_onBlack" group-title="SPORTS",ORIGIN SPORTS
+https://d2irko5f9gt1c5.cloudfront.net/10008/99991786/hls/playlist.m3u8?ads.xumo_channelId=99991786
+#EXTINF:-1 tvg-id="ACL CORNHOLE TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99991697/600x337.webp?type=color_onBlack" group-title="SPORTS",ACL CORNHOLE TV
+https://dbrb49pjoymg4.cloudfront.net/10001/99991697/hls/CORNHOLETV_SCTE.m3u8?ads.xumo_channelId=99991697
+#EXTINF:-1 tvg-id="FANDUEL TV EXTRA" tvg-logo="https://image.xumo.com/v1/channels/channel/99951266/600x337.webp?type=color_onBlack" group-title="SPORTS",FANDUEL TV EXTRA
+https://dbrb49pjoymg4.cloudfront.net/10001/99951266/hls/playlist.m3u8?ads.xumo_channelId=99951266
+#EXTINF:-1 tvg-id="OUTDOOR AMERICA" tvg-logo="https://image.xumo.com/v1/channels/channel/99991374/600x337.webp?type=color_onBlack" group-title="SPORTS",OUTDOOR AMERICA
+https://dbrb49pjoymg4.cloudfront.net/10001/99991374/hls/playlist.m3u8?ads.xumo_channelId=99991374
+#EXTINF:-1 tvg-id="CRICKET GOLD" tvg-logo="https://i.ibb.co/cXscjCG/cricket-gold.png" group-title="SPORTS",CRICKET GOLD
+https://d382r3rgbxdixq.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CricketGold/418.m3u8
+#EXTINF:-1 tvg-id="SHARJAH SPORTS" tvg-logo="https://i.ibb.co/6vy2ysG/logo-sport-sharjah-sport.png" group-title="SPORTS",SHARJAH SPORTS
+http://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DUBAI SPORTS 1" tvg-logo="https://i.ibb.co/ByB8gK9/dubaisports.png" group-title="SPORTS",DUBAI SPORTS 1
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="CHILEVISIÓN DEPORTES" tvg-logo="https://i.postimg.cc/g2B46w5R/chv-contigo.png" group-title="SPORTS",CHILEVISIÓN DEPORTES
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/638df6f8b63cf100075ccfa1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="CNN CHILE" tvg-logo="https://i.postimg.cc/ZKPr6w76/cnncl.png" group-title="NEWS",CNN CHILE
+http://live1.cl.cdn.lla.vtrplay.com/cnnchilehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="TNT SPORTS CHILE" tvg-logo="https://i.ibb.co/z79dspk/tnt-sports.png" group-title="SPORTS",TNT SPORTS CHILE
+http://45.189.108.146:1935/xmp_trans/tnt_sports.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN DEPORTES" tvg-logo="https://i.ibb.co/PZ4h2S7/Espn-deportes.png" group-title="SPORTS",ESPN DEPORTES
+https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1NDhlN2YzY2RmMjFkLTkyNTktNDNkNC02M2Q0LTk1YWVjODEy/master.m3u8
+#EXTINF:-1 tvg-id="FOX DEPORTES" tvg-logo="https://i.ibb.co/qkfX5Wc/FOX-Deportes.png" group-title="SPORTS",FOX DEPORTES
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63d0269d60bc8f000890facc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-id="FOX DEPORTES US" tvg-logo="https://i.ibb.co/qkfX5Wc/FOX-Deportes.png" group-title="SPORTS",FOX DEPORTES US
+https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1YWZlZjkxN2IxZDI5LTY3MmItMTQyNC1jNDkzLTI1OWY4OThj/master.m3u8
