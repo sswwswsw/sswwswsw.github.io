@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TYC SPORTS (PLAY 8)" tvg-logo="https://i.ibb.co/bsFcWYm/tycsportplay.png" group-title="TYC SPORTS (PLAY 8)",TYC SPORTS (PLAY 8)
+https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8
+#EXTINF:-1 tvg-id="WORLD POKER TOUR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2900001P9_20230926T032409SQUARE.png_20230926032410.png" group-title="WORLD POKER TOUR",WORLD POKER TOUR
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00218-wptenterprisesi-wptespanol-samsungspain/playlist.m3u8
