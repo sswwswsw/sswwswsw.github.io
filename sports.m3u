@@ -27,5 +27,5 @@ https://cablemor.andremor.dev/live/sportmax-cl/index.m3u8
 https://streaming-cl.sh1ny.space/memfs/6f2ee266-1c1e-48ad-a5aa-e977dc33740e.m3u8
 #EXTINF:-1 tvg-id="ESPN PREMIUM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7O-M-yq4RNxUURjSVPCc8E7erFNCYxBAYuDHJDjoH9qGTUVdpD3NTjKUlFadThM4Ril0&usqp=CAU" group-title="ESPN PREMIUM",ESPN PREMIUM
 http://45.189.108.146:1935/xmp_trans/espn_premium.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TIGO Sports Latino" tvg-logo="https://i.postimg.cc/L6BrCMxB/tigo-sports.png" group-title="TIGO Sports Latino",TIGO Sports Latino
+#EXTINF:-1 tvg-id="TIGO Sports Latino" tvg-logo="https://i0.wp.com/logoroga.com/wp-content/uploads/2015/10/PREVtigosport.png?fit=800%2C600&ssl=1" group-title="TIGO Sports Latino",TIGO Sports Latino
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7357
