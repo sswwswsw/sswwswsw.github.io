@@ -29,3 +29,5 @@ https://streaming-cl.sh1ny.space/memfs/6f2ee266-1c1e-48ad-a5aa-e977dc33740e.m3u8
 http://45.189.108.146:1935/xmp_trans/espn_premium.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TIGO Sports Latino" tvg-logo="https://i0.wp.com/logoroga.com/wp-content/uploads/2015/10/PREVtigosport.png?fit=800%2C600&ssl=1" group-title="TIGO Sports Latino",TIGO Sports Latino
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7357
+#EXTINF:-1 tvg-id="E-Sports" tvg-logo="https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png" group-title="E-Sports",E-Sports
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
