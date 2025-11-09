@@ -3,3 +3,5 @@
 https://customer-6xrgnf3sgmzer7gb.cloudflarestream.com/d5d6cbf8111708f0157480ae7399703d/manifest/video.m3u8
 #EXTINF:-1 tvg-id="BOCA vs RIVER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs28IbNAp_Cvz4DRLiHn7jrAUzk5jXUPbMFA&s" group-title="Entertainment",BOCA vs RIVER
 https://prod-fastly-us-east-1.video.pscp.tv/Transcoding/v1/hls/0z0GB7Cj87ZsKIfHl-KsT3mwC-DcVz5KSgcC1TNftL9MtpmbEema0ruyqdB5gqQi1kw6kT8Txk7U6yMbb4h_SQ/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_delta.m3u8?type=live
+#EXTINF:-1 tvg-id="CELTA DE VIGO vs FC BARCELONA" tvg-logo="https://www.fcbarcelona.com/photo-resources/2025/04/18/3a6bf0cb-5481-4c98-a701-5467e0266152/TIMEZONES_ESCUTS.jpg?width=1200&height=750" group-title="Entertainment",CELTA DE VIGO vs FC BARCELONA"
+https://storage.googleapis.com/25d8hyza/mux_video_ts/index-1.m3u8
